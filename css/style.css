@@ -13,6 +13,10 @@ header{
     color: white;
 }
 
+.my_avatar-img{
+    width: 200px;
+}
+
 .about{
     background-color: #1abc9c;
     color: white;
